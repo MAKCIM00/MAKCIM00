@@ -5,6 +5,13 @@
 * * ✉️Связаться со мной можно по адресу [Mayklmaykl98@mail.ru .](mailto:Mayklmaykl98@mail.ru)[](mailto:Mayklmaykl98@mail.ru)
 * * 🧠 Я изучаю Flutter Dart
 * * 🤝 Я открыт к сотрудничеству. Если ваш проект интересен, я готов с вами сотрудничать.
+ 
+![snake gif](https://github.com/MAKCIM00/MAKCIM00/blob/output/github-contribution-grid-snake.svg)
+
+
+
+
+
 
 ### 💻 Технологии:
 
